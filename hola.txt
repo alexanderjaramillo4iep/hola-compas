@@ -1,1 +1,2 @@
 Hola compas!
+ejemplo de git con el GUI
